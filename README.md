@@ -1,9 +1,9 @@
 # Self-Supervised-Learning-projects
 ![SFSL](https://assets-global.website-files.com/5d7b77b063a9066d83e1209c/627d124c218350a7f68b344f_6215b2d698dbdf6c276225c7_ssl.png)
 
-The GitHub repository is reserved for self-supervised learning projects, presenting various enterprises across various fields such as computer vision, natural language processing, audio analysis, and robotics. These projects range from implementing cutting-edge algorithms such as SimCLR for image recognition and Word2Vec for text embeddings to exploring advanced techniques like generative adversarial networks (GANs) for image generation and reinforcement learning for robotics applications. Additionally, the repository delves into worldly tasks like 3D object reconstruction, graph representation learning, and semi-supervised learning, providing comprehensive documentation and clear instructions to foster collaboration and knowledge sharing within the machine learning and AI community.
+The GitHub repository is reserved for self-supervised learning projects, presenting various enterprises across various fields such as computer vision, natural language processing, audio analysis, and robotics. These projects range from implementing cutting-edge algorithms such as SimCLR for image recognition and Word2Vec for text embeddings to exploring advanced techniques like generative adversarial networks (GANs) for image generation and reinforcement learning for robotics applications. Furthermore, the repository delves into worldly tasks like 3D object reconstruction, graph representation learning, and semi-supervised learning, providing comprehensive documentation and clear instructions to foster collaboration and knowledge sharing within the machine learning and AI community.
 
-Here are some project ideas about self-supervised learning:
+Here are some project ideas around self-supervised learning:
 
     Image Recognition with SimCLR: Implement the SimCLR (Simple Contrastive Learning of Representations) algorithm for self-supervised learning on image data. we can use widespread frameworks like PyTorch or TensorFlow for this project.
 
